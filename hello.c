@@ -1,6 +1,3 @@
-#include <stdio.h>
+// Resolva neste ficheiro o seu exercício
 
-int main() {
-   printf("Hello!\n");
-   return 0;
-}
+
