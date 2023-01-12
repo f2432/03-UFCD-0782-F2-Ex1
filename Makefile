@@ -1,8 +1,8 @@
 a.out:
-	gcc hello.c
+	gcc OlaMundo.c
 
 clean:
-	rm hello
+	rm OlaMundo
 
 test: a.out
 	bash test.sh
