@@ -6,7 +6,7 @@ Escreva um programa (OlaMundo.c) em C para imprimir no terminal o texto “Olá 
 
 ### Saída Esperada:
    
-Ola Mundo!
+Olá Mundo!
 
 
 ### Notas
